@@ -36,7 +36,7 @@ Ayrıca insana özgü doğal dile yakın seviyede Türkçe doğal dil işleme ge
  Yapay sinir ağının eğitim verisi ile öğrenimi gerçekleştirilerek bir model oluşturulmuştur.
 
 # Demo
-
+ ![ScreenShot](https://raw.github.com/barisbaburoglu/acik-hack-pos-tagging/master/demo.png)
 
 # Hedefler
 
